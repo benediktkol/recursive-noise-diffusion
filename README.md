@@ -101,10 +101,12 @@ python test.py --load_checkpoint /path/to/checkpoint.pt --dataset vaihingen --sc
 ## Cite
 
 ```
-@article{kolbeinsson2022multi,
-  title={Multi-Class Segmentation from Aerial Views using Recursive Noise Diffusion},
-  author={Kolbeinsson, Benedikt and Mikolajczyk, Krystian},
-  journal={arXiv preprint arXiv:2212.00787},
-  year={2022}
+@InProceedings{Kolbeinsson_2024_WACV,
+    author    = {Kolbeinsson, Benedikt and Mikolajczyk, Krystian},
+    title     = {Multi-Class Segmentation From Aerial Views Using Recursive Noise Diffusion},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {8439-8449}
 }
 ```
